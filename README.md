@@ -16,7 +16,7 @@ Seeing as Flash Player's end-of-life is coming very soon, I figured I'd get this
 
 ## Play
 
-As far as Flash games go, this one is a little heavy on the graphics. Folks with older/slower computers may experience some frame stuttering.
+As far as Flash games go, this one is a little heavy on the graphics. Folks with older/slower computers may experience some frame stuttering or other slowdowns. If this happens, you could try setting the quality to low.
 
 Playable link - Requires a browser that supports Flash Player: [Click Here (external site)](https://cdn.pub.marcellx.ca/flash/rosti-game.html)
 
