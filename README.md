@@ -1,4 +1,4 @@
-# Rosti the Raccoon's Alleyway Cleanup
+# Rösti the Raccoon's Alleyway Cleanup
 
 Flash game created for a course at St. Lawrence College
 
