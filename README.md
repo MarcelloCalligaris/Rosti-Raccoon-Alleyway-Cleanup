@@ -2,6 +2,8 @@
 
 Flash game created for a course at St. Lawrence College
 
+Playable link: [Click Here (external site)](https://cdn.pub.marcellx.ca/flash/rosti-game.html)
+
 Seeing as Flash Player's end-of-life is coming very soon, I figured I'd get this online before then just in case folks wanna play around or look through some simple AS3 code.
 
 All graphics (c) Copyright 2020 Marcello Calligaris
